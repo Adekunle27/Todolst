@@ -4,8 +4,8 @@ A small tasks management system
 ## Quick Overview
 
 ```sh
-git clone https://github.com/adenekan41/exquis-app
-cd exquis-app
+git clone https://github.com/Adekunle27/Todolst
+cd Todolst
 cd client && npm install
 cd server && npm install 
 cd client && npm start
@@ -19,7 +19,3 @@ You **don’t** need to install or configure tools like Webpack or Babel.<br>
 They are preconfigured and hidden so that you can focus on the code.
 
 Start the project, and you’re good to go.
-
-## License
-
-Exquis App is open source software [licensed as MIT](https://github.com/adenekan41/exquis-app).
